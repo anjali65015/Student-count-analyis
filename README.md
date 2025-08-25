@@ -3,7 +3,7 @@
 - <a href="https://github.com/anjali65015/Student-count-analyis/blob/main/tableau%20sql%20project%201.twb">Dataset view</a>
 -dashboard <a href="https://github.com/anjali65015/Student-count-analyis/blob/main/das.jpg">dashboard view</a>
 
-Project Overview
+Project Overview:
 This project focuses on analyzing student-related factors such as academic pressure, financial stress, sleep duration, study hours, and overall satisfaction. The goal is to understand how these variables influence student well-being and academic outcomes.
 Using SQL for data preparation and Tableau for visualization, I created an interactive dashboard that provides clear, actionable insights from raw data.
 🔹 Objectives
